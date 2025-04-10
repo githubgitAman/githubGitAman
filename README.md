@@ -2,7 +2,7 @@
 
 🚀 I am a Backend Developer  
 
-Hi! I’m a passionate **Java Spring Boot Developer** with expertise in designing **scalable, secure, and high-performance backend systems**. I specialize in building robust **microservices, RESTful APIs, and cloud-based architectures** that power modern applications.  
+Hi! I’m a passionate **Backend Developer** with expertise in designing **scalable, secure, and high-performance backend systems**. I specialize in building robust **microservices, RESTful APIs, and cloud-based architectures** that power modern applications.  
 
 ---
 
