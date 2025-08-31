@@ -49,6 +49,7 @@ Hi! I’m a passionate **Backend Developer** with expertise in designing **scala
 
 📌 **LinkedIn**: [Aman Sharma](https://www.linkedin.com/in/aman-sharma-2b548b1b9)  
 📌 **Email**: [sharma.aman.a30@gmail.com](mailto:sharma.aman.a30@gmail.com)  
+📌 **InterviewBit**: [Aman Sharma](https://www.scaler.com/academy/profile/14b44d4d5cd7/)
 
 ---
 
