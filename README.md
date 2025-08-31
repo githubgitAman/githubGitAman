@@ -41,7 +41,6 @@ Hi! I’m a passionate **Backend Developer** with expertise in designing **scala
 ## 🚀 Current Projects & Interests  
 
 - 🔸 **Job Portal Backend** – Advanced authentication, messaging, AI-driven resume enhancement  
-- 🔸 **Building a Redis-like System in Java** – Exploring caching, persistence, and distributed systems  
 - 🔸 **Exploring Design Patterns** – Implementing & optimizing software architecture  
 
 ---
